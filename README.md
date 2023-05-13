@@ -1,2 +1,9 @@
-# LanguageApplication-
-This application will allow the user to practice their skills in various ways. One of the features will include using flashcards to test the users knowledge by choosing the correct interpretation of the given words. 
+# Airlines Application
+This app will be siimilar to an airlines website it will alloq the user to perform the following
+  . Search Flights
+      . add passangers
+      . modify to and where flights
+      . view all availible flights
+  . create an account
+  . view flight history 
+  . see most popular flights
